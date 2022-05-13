@@ -1,4 +1,4 @@
-# CSE4019-Digital-Image-Processing---Skin-Cancer-Detection-using-Deep-Learning-and-Medical-Assistance
+# Skin Cancer Detection using Deep Learning
 In order to implement the Skin Cancer Classification and Melanoma Detection using Deep Learning and Medical Assistance project, the following steps need to be followed:
 
 Step 1: Download the ISIC Skin Cancer Classification Dataset from: https://www.kaggle.com/competitions/siim-isic-melanoma-classification/data
